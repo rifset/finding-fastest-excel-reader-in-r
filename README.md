@@ -1,4 +1,4 @@
-# Working with Excel files in R: A Journey to Find the Fastest Reader
+# Working with Excel files in R: A Journey to Find the Fastest Importer
 
 *Disclaimer: this is the iterated version of my old Linkedin [post](https://www.linkedin.com/pulse/benchmarking-xlsx-openxlsx-readxl-package-r-arif-setyawan/). I changed some codes and parameters in comparison to the old version.*
 
