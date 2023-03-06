@@ -4,6 +4,23 @@
 
 ![cover2.jpg](cover2.jpg)
 
+## Table of Content
+
+  * [Background](#background)
+  * [Finding available tools](#finding-available-tools)
+  * [Benchmarking](#benchmarking)
+    + [Data preparation](#data-preparation)
+  * [Benchmarking process](#benchmarking-process)
+    + [Summarizing](#summarizing)
+    + [Visualization](#visualization)
+  * [Result](#result)
+    + [Table view](#table-view)
+    + [Chart view](#chart-view)
+  * [Final thoughts](#final-thoughts)
+  * [Reference](#reference)
+
+---
+
 ## Background
 
 In my previous and current projects, I was working with Excel files. One of the tasks was to import an Excel file to another software, as in my case, it was R. At a glance, I know the `xlsx` package on R, and I thought it would be easy and quick to finish the task. Until I figured out that this simple importing task could be time-consuming. It is done quickly for small-sized data Excel files, yet not for larger ones. This problem led me to the curiosity of what is the fastest R package to import Excel files.
